@@ -9,6 +9,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+*.pdf
+./_refiles/*
+./index.ja.md
 
 # Used by dotenv library to load environment variables.
 # .env
